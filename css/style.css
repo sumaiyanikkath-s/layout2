@@ -130,7 +130,7 @@ margin:auto;
 	flex-wrap:wrap;
 	justify-content:space-evenly;
 }
-.logo .logo-fc .logoA
+.logo .logo-fc .logoa
 {
 	width:102px;
 	height:41px;
@@ -138,7 +138,7 @@ margin:auto;
 	background-color:lime;
 	text-align:center;
 }
-.logo .logo-fc .logoB
+.logo .logo-fc .logob
 {
 	background-color:lightsteelblue;
 	width:102px;
@@ -146,7 +146,7 @@ margin:auto;
 	text-align:center;
 	margin-top:10px;
 }
-.logo .logo-fc .logoC
+.logo .logo-fc .logoc
 {
 	background-color:lightslategrey;
 	width:102px;
@@ -154,7 +154,7 @@ margin:auto;
 	margin-top:10px;
 	text-align:center;
 }
-.logo .logo-fc .logoD
+.logo .logo-fc .logod
 {
 	width:102px;
 	height:41px;
@@ -162,7 +162,7 @@ margin:auto;
 	margin-top:10px;
 	text-align:center;
 }
-.logo .logo-fc .logoE
+.logo .logo-fc .logoe
 {
 	background-color:lightsteelblue;
 	width:102px;
@@ -170,7 +170,7 @@ margin:auto;
 	text-align:center;
 	margin-top:10px;
 }
-.logo .logo-fc .logoF
+.logo .logo-fc .logof
 {
 	background-color:lightskyblue;
 	width:102px;
@@ -189,7 +189,7 @@ margin:auto;
 	flex-direction:row;
 	justify-content:space-evenly;
 }
-.provident .provident-fc .logoA
+.provident .provident-fc .logoa
 {
 	width:500px;
 	height:360px;
@@ -197,7 +197,7 @@ margin:auto;
 	background-color:lightsteelblue ;
 	text-align:center;
 }
-.provident .provident-fc .logoB
+.provident .provident-fc .logob
 {
 	background-color:violet;
 	width:500px;
@@ -217,7 +217,7 @@ margin:auto;
 	flex-wrap:wrap;
 	justify-content:space-evenly;
 }
-.contentbox .contentbox-fc .boxA
+.contentbox .contentbox-fc .boxa
 {
 	width:128px;
 	height:87px;
@@ -225,7 +225,7 @@ margin:auto;
 	background-color:lightpink;
 	text-align:center;
 }
-.contentbox .contentbox-fc .boxB
+.contentbox .contentbox-fc .boxb
 {
 	background-color:white;
 	width:128px;
@@ -233,7 +233,7 @@ margin:auto;
 	text-align:center;
 	margin-top:25px;
 }
-.contentbox .contentbox-fc .boxC
+.contentbox .contentbox-fc .boxc
 {
 	background-color:lightpink;
 	width:128px;
@@ -241,7 +241,7 @@ margin:auto;
 	margin-top:25px;
 	text-align:center;
 }
-.contentbox .contentbox-fc .boxD
+.contentbox .contentbox-fc .boxd
 {
 	width:128px;
 	height:87px;
@@ -262,7 +262,7 @@ margin:auto;
 	justify-content:space-evenly;
 	text-align:center;
 }
-.services .services-fc .boxA
+.services .services-fc .boxa
 {
 	width:350px;
 	height:295px;
@@ -270,7 +270,7 @@ margin:auto;
 	background-color:lightpink;
 	text-align:center;
 }
-.services .services-fc .boxB
+.services .services-fc .boxb
 {
 	background-color:grey;
 	width:350px;
@@ -278,7 +278,7 @@ margin:auto;
 	text-align:center;
 	margin-top:100px;
 }
-.services .services-fc .boxC
+.services .services-fc .boxc
 {
 	background-color:lightpink;
 	width:350px;
@@ -286,7 +286,7 @@ margin:auto;
 	margin-top:100px;
 	text-align:center;
 }
-.services .services-fc .boxD
+.services .services-fc .boxd
 {
 	width:350px;
 	height:295px;
@@ -294,7 +294,7 @@ margin:auto;
 	margin-top:100px;
 	text-align:center;
 }
-.services .services-fc .boxE
+.services .services-fc .boxe
 {
 	width:350px;
 	height:295px;
@@ -302,7 +302,7 @@ margin:auto;
 	margin-top:100px;
 	text-align:center;
 }
-.services .services-fc .boxF
+.services .services-fc .boxf
 {
 	width:350px;
 	height:295px;
@@ -323,7 +323,7 @@ margin:auto;
 	justify-content:space-evenly;
 	text-align:center;
 }
-.calltoaction .calltoaction-fc .boxA
+.calltoaction .calltoaction-fc .boxa
 {
 	width:202px;
 	height:84px;
@@ -343,7 +343,7 @@ margin:auto;
 	justify-content:space-evenly;
 	text-align:center;
 }
-.testimonials .testimonials-fc .boxA
+.testimonials .testimonials-fc .boxa
 {
 	width:300px;
 	height:350px;
@@ -351,7 +351,7 @@ margin:auto;
 	background-color:aquamarine;
 	text-align:center;
 }
-.testimonials .testimonials-fc .boxB
+.testimonials .testimonials-fc .boxb
 {
 	background-color:azure;
 	width:300px;
@@ -359,7 +359,7 @@ margin:auto;
 	text-align:center;
 	margin-top:100px;
 }
-.testimonials .testimonials-fc .boxC
+.testimonials .testimonials-fc .boxc
 {
 	background-color:aquamarine;
 	width:300px;
@@ -380,14 +380,14 @@ margin:auto;
 	justify-content:space-evenly;
 	text-align:center;
 }
-.portfolio .portfolio-fc .boxA
+.portfolio .portfolio-fc .boxa
 {
 	width:300px;
 	height:266px;
 	margin-top:100px;
 	background-color:bisque;
 }
-.portfolio .portfolio-fc .boxB
+.portfolio .portfolio-fc .boxb
 {
 	background-color:cadetblue;
 	width:300px;
@@ -395,49 +395,49 @@ margin:auto;
 	text-align:center;
 	margin-top:100px;
 }
-.portfolio .portfolio-fc .boxC
+.portfolio .portfolio-fc .boxc
 {
 	background-color:bisque;
 	width:300px;
 	height:266px;
 	margin-top:100px;
 }
-.portfolio .portfolio-fc .boxD
+.portfolio .portfolio-fc .boxd
 {
 	width:300px;
 	height:266px;
 	background-color:cadetblue;
 	margin-top:100px;
 }
-.portfolio .portfolio-fc .boxE
+.portfolio .portfolio-fc .boxe
 {
 	background-color:chartreuse;
 	width:300px;
 	height:266px;
 	margin-top:100px;
 }
-.portfolio .portfolio-fc .boxF
+.portfolio .portfolio-fc .boxf
 {
 	width:300px;
 	height:266px;
 	background-color:cadetblue;
 	margin-top:100px;
 }
-.portfolio .portfolio-fc .boxG
+.portfolio .portfolio-fc .boxg
 {
 	width:300px;
 	height:266px;
 	background-color:darkgoldenrod;
 	margin-top:100px;
 }
-.portfolio .portfolio-fc .boxH
+.portfolio .portfolio-fc .boxh
 {
 	background-color:coral;
 	width:300px;
 	height:266px;
 	margin-top:100px;
 }
-.portfolio .portfolio-fc .boxI
+.portfolio .portfolio-fc .boxi
 {
 	width:300px;
 	height:266px;
@@ -463,7 +463,7 @@ margin:auto;
 	margin-top:80px;
 	margin-top:90px;
 }
-.team .team-fc .boxA
+.team .team-fc .boxa
 {
 	width:220px;
 	height:350px;
@@ -471,7 +471,7 @@ margin:auto;
 	background-color:darkcyan;
 	margin-right:40px;
 }
-.team .team-fc .boxB
+.team .team-fc .boxb
 {
 	background-color:darkgoldenrod;
 	width:220px;
@@ -479,7 +479,7 @@ margin:auto;
 	margin-top:150px;
 	margin-right:40px;
 }
-.team .team-fc .boxC
+.team .team-fc .boxc
 {
 	background-color:darkcyan;
 	width:220px;
@@ -487,7 +487,7 @@ margin:auto;
 	margin-top:150px;
 	margin-right:40px;
 }
-.team .team-fc .boxD
+.team .team-fc .boxd
 {
 	width:220px;
 	height:350px;
@@ -513,7 +513,7 @@ margin:auto;
 	margin-top:80px;
 	margin-top:90px;
 }
-.pricing .pricing-fc .boxA
+.pricing .pricing-fc .boxa
 {
 	width:265px;
 	height:430px;
@@ -521,7 +521,7 @@ margin:auto;
 	background-color:fuchsia;
 	margin-right:40px;
 }
-.pricing .pricing-fc .boxB
+.pricing .pricing-fc .boxb
 {
 	background-color:deepskyblue;
 	width:265px;
@@ -529,7 +529,7 @@ margin:auto;
 	margin-top:150px;
 	margin-right:40px;
 }
-.pricing .pricing-fc .boxC
+.pricing .pricing-fc .boxc
 {
 	background-color:fuchsia;
 	width:265px;
@@ -537,7 +537,7 @@ margin:auto;
 	margin-top:150px;
 	margin-right:40px;
 }
-.pricing .pricing-fc .boxD
+.pricing .pricing-fc .boxd
 {
 	width:265px;
 	height:430px;
@@ -559,7 +559,7 @@ margin:auto;
 	flex-wrap:wrap;
 	
 }
-.faq .faq-fc .boxA
+.faq .faq-fc .boxa
 {
 	width:920px;
 	height:126px;
@@ -567,28 +567,28 @@ margin:auto;
 	background-color:white;
 
 }
-.faq .faq-fc .boxB
+.faq .faq-fc .boxb
 {
 	background-color:white;
 	width:920px;
 	height:66px;
 	margin-top:30px;
 }
-.faq .faq-fc .boxC
+.faq .faq-fc .boxc
 {
 	background-color:white;
 	width:920px;
 	height:66px;
 	margin-top:30px;
 }
-.faq .faq-fc .boxD
+.faq .faq-fc .boxd
 {
 	width:920px;
 	height:66px;
 	background-color:white;
 	margin-top:30px;
 }
-.faq .faq-fc .boxE
+.faq .faq-fc .boxe
 {
 	width:920px;
 	height:66px;
@@ -608,14 +608,14 @@ margin:auto;
 	justify-content:space-evenly;
 	text-align:center;
 }
-.contact .contact-fc .boxA
+.contact .contact-fc .boxa
 {
 	width:320px;
 	height:147px;
 	margin-top:100px;
 	background-color:white;
 }
-.contact .contact-fc .boxB
+.contact .contact-fc .boxb
 {
 	background-color:white;
 	width:255px;
@@ -623,42 +623,42 @@ margin:auto;
 	text-align:center;
 	margin-top:100px;
 }
-.contact .contact-fc .boxC
+.contact .contact-fc .boxc
 {
 	background-color:white;
 	width:212px;
 	height:168px;
 	margin-top:100px;
 }
-.contact .contact-fc .boxD
+.contact .contact-fc .boxd
 {
 	width:230px;
 	height:44px;
 	background-color:white;
 	margin-top:100px;
 }
-.contact .contact-fc .boxE
+.contact .contact-fc .boxe
 {
 	background-color:white;
 	width:230px;
 	height:44px;
 	margin-top:100px;
 }
-.contact .contact-fc .boxF
+.contact .contact-fc .boxf
 {
 	width:486px;
 	height:44px;
 	background-color:white;
 	margin-top:100px;
 }
-.contact .contact-fc .boxG
+.contact .contact-fc .boxg
 {
 	width:488px;
 	height:130px;
 	background-color:white;
 	margin-top:100px;
 }
-.contact .contact-fc .boxH
+.contact .contact-fc .boxh
 {
 	background-color:white;
 	width:178px;
@@ -677,7 +677,7 @@ margin:auto;
 	justify-content:space-evenly;
 	text-align:center;
 }
-.about .about-fc .boxA
+.about .about-fc .boxa
 {
 	width:205px;
 	height:257px;
@@ -685,7 +685,7 @@ margin:auto;
 	background-color:deepskyblue;
 	margin-right:40px;
 }
-.about .about-fc .boxB
+.about .about-fc .boxb
 {
 	background-color:lightblue;
 	width:172px;
@@ -693,7 +693,7 @@ margin:auto;
 	margin-top:50px;
 	margin-right:40px;
 }
-.about .about-fc .boxC
+.about .about-fc .boxc
 {
 	background-color:deepskyblue;
 	width:193px;
@@ -701,7 +701,7 @@ margin:auto;
 	margin-top:50px;
 	margin-right:40px;
 }
-.about .about-fc .boxD
+.about .about-fc .boxd
 {
 	width:405px;
 	height:249px;
